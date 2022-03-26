@@ -1,2 +1,2 @@
-# mytext
-text case
+# mytest
+test case
